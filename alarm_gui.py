@@ -4,9 +4,8 @@ from time import strftime
 import pyowm
 from threading import Timer
 from decimal import *
-from gtts import gTTS
-import vlc
-import time
+
+version = 'V.1.10'
 
 root = Tk()
 
